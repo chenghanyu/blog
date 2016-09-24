@@ -1,7 +1,7 @@
 ---
 title: "Your Document Title"
 author: "Document Author"
-date: August 18, 2016 # DO NOT USE Sys.Date()
+date: "September 24, 2016"" # DO NOT USE Sys.Date()
 layout: post
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: A minimal R Markdown example
-
-date: August 15, 2016
+author: "Cheng-Han Yu"
+date: September 24, 2016
 layout: post
 ---
 

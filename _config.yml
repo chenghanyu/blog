@@ -19,7 +19,7 @@ url: https://chenghanyu.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/blog"
+baseurl: /blog
 
 
 #
@@ -30,14 +30,14 @@ baseurl: "/blog"
 footer-links:
   dribbble:
   email: cy48707@ucsc.edu
-  facebook: https://www.facebook.com/cy48707
+  facebook: cy48707
   flickr:
-  github: https://github.com/chenghanyu
-  instagram: https://www.instagram.com/uuuumike/
-  linkedin: https://www.linkedin.com/in/uuuumike
+  github: chenghanyu/blog
+  instagram: uuuumike
+  linkedin: uuuumike
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/uuuumike
+  twitter: uuuumike
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -45,7 +45,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus:
+disqus: blog-cheyu
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
