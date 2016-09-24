@@ -13,7 +13,7 @@ avatar:
 
 # Your website URL (e.g. https://barryclark.github.io or https://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: https://chenghanyu.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
@@ -29,15 +29,15 @@ baseurl:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: cy48707@ucsc.edu
+  facebook: https://www.facebook.com/cy48707
   flickr:
-  github: 
-  instagram:
-  linkedin:
+  github: https://github.com/chenghanyu
+  instagram: https://www.instagram.com/uuuumike/
+  linkedin: https://www.linkedin.com/in/uuuumike
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: 
+  twitter: https://twitter.com/uuuumike
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
