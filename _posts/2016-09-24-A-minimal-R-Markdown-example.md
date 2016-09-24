@@ -23,8 +23,8 @@ layout: post
 </ul>
 <p>This is an ordered list:</p>
 <ol style="list-style-type: decimal">
-<li>item 3,</li>
-<li>item 4.</li>
+<li>item 3,rehgndfgndn</li>
+<li>item 4.dshrgndgfn</li>
 </ol>
 </div>
 <div id="equations" class="section level2">
